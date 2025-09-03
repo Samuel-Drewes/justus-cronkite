@@ -197,5 +197,5 @@ def show_insights():
     4. **Data collection** - Expand data collection efforts for better insights
     """)
 
-if __name__ == "__main__":
-    main()
+# Run the main function directly for Streamlit Cloud compatibility
+main()
