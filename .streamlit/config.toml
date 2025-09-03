@@ -1,0 +1,24 @@
+[global]
+# Streamlit configuration
+
+[server]
+# Server settings
+headless = false
+port = 8501
+maxUploadSize = 200
+
+[browser]
+# Browser settings
+gatherUsageStats = false
+
+[theme]
+# Theme settings
+primaryColor = "#FF6B6B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[client]
+# Client settings
+showErrorDetails = true
